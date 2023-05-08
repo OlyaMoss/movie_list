@@ -1,0 +1,122 @@
+[
+    {
+      "id": 0,
+      "title": "Avatar",
+      "distributor": "20th Century Fox",
+      "year": 2009,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": " ",
+        "alt": "Avatar"
+      },
+      "ranking": "1"
+    },
+    {
+      "id": 1,
+      "title": "Benjamin Button",
+      "distributor": "20th Century Fox",
+      "year": 2003,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "benjamin_button.jpg",
+        "alt": "Benjamin Button"
+      },
+      "ranking": "2"
+    },
+    {
+      "id": 2,
+      "title": "Finch",
+      "distributor": "20th Century Fox",
+      "year": 2002,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src":"finch.jpg" ,
+        "alt": "Finch"
+      },
+      "ranking": "3"
+    },
+    {
+      "id": 3,
+      "title": "Green Book",
+      "distributor": "20th Century Fox",
+      "year": 2015,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "green_book.jpg",
+        "alt": "Green book"
+      },
+      "ranking": "4"
+    },
+    {
+      "id": 4,
+      "title": "Hatchi",
+      "distributor": "20th Century Fox",
+      "year": 2007,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "hatchi.jpg",
+        "alt": "Hatchi"
+      },
+      "ranking": "5"
+    },
+    {
+      "id": 5,
+      "title": "Home Alone",
+      "distributor": "20th Century Fox",
+      "year": 2002,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "home_alone.jpg",
+        "alt": "Home alone"
+      },
+      "ranking": "6"
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "distributor": "20th Century Fox",
+      "year": 2017,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "interstellar.jpg",
+        "alt": "Interstellar"
+      },
+      "ranking": "7"
+    },
+    {
+      "id": 7,
+      "title": "The Shawshank",
+      "distributor": "20th Century Fox",
+      "year": 1997,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "shawshank.jpg",
+        "alt": "Shawshank"
+      },
+      "ranking": "8"
+    },
+    {
+      "id": 8,
+      "title": "Star Wars",
+      "distributor": "20th Century Fox",
+      "year": 2001,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "starwars.jpg",
+        "alt": "Starwars"
+      },
+      "ranking": "9"
+    },
+    {
+      "id": 9,
+      "title": "Titanic",
+      "distributor": "20th Century Fox",
+      "year": 1998,
+      "amount": "$2.456.345.000",
+      "img": {
+        "src": "titanic.jpg",
+        "alt": "Titanic"
+      },
+      "ranking": "10"
+    }
+  ]
