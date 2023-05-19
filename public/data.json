@@ -6,10 +6,10 @@
       "year": 2009,
       "amount": "$2.456.345.000",
       "img": {
-        "src": " ",
+        "src": "avatar.jpg",
         "alt": "Avatar"
       },
-      "ranking": "1"
+      "rating": 5
     },
     {
       "id": 1,
@@ -21,7 +21,7 @@
         "src": "benjamin_button.jpg",
         "alt": "Benjamin Button"
       },
-      "ranking": "2"
+      "rating": 1
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
         "src":"finch.jpg" ,
         "alt": "Finch"
       },
-      "ranking": "3"
+      "rating": 4
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "src": "green_book.jpg",
         "alt": "Green book"
       },
-      "ranking": "4"
+      "rating": 2
     },
     {
       "id": 4,
@@ -57,7 +57,7 @@
         "src": "hatchi.jpg",
         "alt": "Hatchi"
       },
-      "ranking": "5"
+      "rating": 5
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "src": "home_alone.jpg",
         "alt": "Home alone"
       },
-      "ranking": "6"
+      "rating": 3
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
         "src": "interstellar.jpg",
         "alt": "Interstellar"
       },
-      "ranking": "7"
+      "rating": 1
     },
     {
       "id": 7,
@@ -93,7 +93,7 @@
         "src": "shawshank.jpg",
         "alt": "Shawshank"
       },
-      "ranking": "8"
+      "rating": 3
     },
     {
       "id": 8,
@@ -105,7 +105,7 @@
         "src": "starwars.jpg",
         "alt": "Starwars"
       },
-      "ranking": "9"
+      "rating": 5
     },
     {
       "id": 9,
@@ -117,6 +117,6 @@
         "src": "titanic.jpg",
         "alt": "Titanic"
       },
-      "ranking": "10"
+      "rating": 2
     }
   ]

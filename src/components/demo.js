@@ -39,16 +39,18 @@ const customIcons: {
         label: 'Very Satisfied',
     },
 };
-function IconContainer(props: IconContainerProps) {
+function IconContainer(props: IconContainerProps,) {
     const { value, ...other } = props;
+
     return <span {...other}>{customIcons[value].icon}</span>;
 }
 
-export default function RadioGroupRating () {
+export default function RadioGroupRating ({movie}) {
+    const [data,setData] = React.useState(movie);
     return (
         <StyledRating
+            value = {data.rating}
             name="highlight-selected-only"
-            defaultValue={2}
             IconContainerComponent={IconContainer}
             getLabelText={(value: number) => customIcons[value].label}
             highlightSelectedOnly

@@ -1,5 +1,6 @@
 import './App.css';
-import List from "./containers/List";
+import FilmRanking from "./components/FilmRanking";
+
 
 function App() {
     return (
@@ -7,7 +8,7 @@ function App() {
             <nav className='navbar sticky-top navbar-light bg-dark'>
                 <h1 className='navbar-brand text-light'>movieList</h1>
             </nav>
-            <List/>
+            <FilmRanking/>
         </div>
     );
 }
