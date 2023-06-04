@@ -1,8 +1,8 @@
 import './App.css';
-import FilmRanking from "./components/FilmRanking";
-
+import FilmRanking from "./components/FilmRanking/FilmRanking";
 
 function App() {
+
     return (
         <div className='container-fluid'>
             <nav className='navbar sticky-top navbar-light bg-dark'>

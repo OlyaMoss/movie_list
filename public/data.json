@@ -6,7 +6,7 @@
       "year": 2009,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "avatar.jpg",
+        "src":"./media/avatar.jpg",
         "alt": "Avatar"
       },
       "rating": 5
@@ -18,7 +18,7 @@
       "year": 2003,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "benjamin_button.jpg",
+        "src": "./media/benjamin_button.jpg",
         "alt": "Benjamin Button"
       },
       "rating": 1
@@ -30,7 +30,7 @@
       "year": 2002,
       "amount": "$2.456.345.000",
       "img": {
-        "src":"finch.jpg" ,
+        "src":"./media/finch.jpg" ,
         "alt": "Finch"
       },
       "rating": 4
@@ -42,7 +42,7 @@
       "year": 2015,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "green_book.jpg",
+        "src": "./media/green_book.jpg",
         "alt": "Green book"
       },
       "rating": 2
@@ -54,7 +54,7 @@
       "year": 2007,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "hatchi.jpg",
+        "src": "./media/hatchi.jpg",
         "alt": "Hatchi"
       },
       "rating": 5
@@ -66,7 +66,7 @@
       "year": 2002,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "home_alone.jpg",
+        "src": "./media/home_alone.jpg",
         "alt": "Home alone"
       },
       "rating": 3
@@ -78,7 +78,7 @@
       "year": 2017,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "interstellar.jpg",
+        "src": "./media/interstellar.jpg",
         "alt": "Interstellar"
       },
       "rating": 1
@@ -90,7 +90,7 @@
       "year": 1997,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "shawshank.jpg",
+        "src": "./media/shawshank.jpg",
         "alt": "Shawshank"
       },
       "rating": 3
@@ -102,7 +102,7 @@
       "year": 2001,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "starwars.jpg",
+        "src": "./media/starwars.jpg",
         "alt": "Starwars"
       },
       "rating": 5
@@ -114,7 +114,7 @@
       "year": 1998,
       "amount": "$2.456.345.000",
       "img": {
-        "src": "titanic.jpg",
+        "src": "./media/titanic.jpg",
         "alt": "Titanic"
       },
       "rating": 2
